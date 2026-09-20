@@ -25,6 +25,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ## Analytics
 
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
 - [ETH in DeFi](https://mikemcdonald.github.io/eth-defi/) - Chart of the amount of ETH locked in DeFi products (Maker, Compound, Augur, dYdX, Uniswap)
 - [Loanscan](https://loanscan.io/) - Explorer for Ethereum loans
 - [MakerScan](https://makerscan.io) - Explorer for MakerDao
